@@ -1,0 +1,9 @@
+Q. Describe they difference between Continuous Delivery and Continuous Deployment. For each, provide an clear and specific example of their usage.
+
+Continuous delivery is being agile enough to be ready and able to release any version at any time on any platform. It allows accepted code changes to 
+be deployed to customers quickly and sustainably. For example, continuous delivery involves the automation of the release process so we can acheive a streamlined,
+automated software release process.
+
+Continuous deployment is an extension of Continuous Delivery whereby changes attempt to flight towards production automatically, and the only thing stopping them
+is a failed test. An example of continous deployment is building a pipeline in plcace where teams can react to customer feedback in real time, developers can design and develop then test, and 
+deploy very quickly as the deployment is automated. 

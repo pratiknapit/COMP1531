@@ -1,0 +1,3 @@
+This would be part of the design of SDLC, in the system modelling component. 
+This is because the developer has drawn out a diagrm which helps explain how different software
+modules interact and what they do exactly. 

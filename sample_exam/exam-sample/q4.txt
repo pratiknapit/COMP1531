@@ -1,0 +1,8 @@
+Q. Describe the key differences between JSON and YAML as data transfer objects. What is an advantage of JSON compared to usage of YAML? What is an advantage of YAML compared to use of JSON?
+
+JSON and YAML are two different types of data transfer objects. YAML can be more readbale than JSON although JSON is often faster and more interoperable with more systems.
+JSON is much more explicit and strict than YAML, it is a very popular format for tramsittinng data over http.
+
+For JSON, no training commas allowed, and whitespace is ignored. In Json a key in double quotes is used to begin a item. 
+
+For YAML, indentation matters and a dash is used to begin a list item.

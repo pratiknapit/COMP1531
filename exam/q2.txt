@@ -1,0 +1,3 @@
+Thi statement would be part of the requirements analysis as this represents a requirement that the developers want for the software to handle, but the requirement is for the 
+maintenance part of the SDLC. This is because this statement is a requirement for the software to be able to perform properly in the maintenance aspect of the SDLC, by writing a good
+requirement for the software to "monitor users usage and track if servers go down", we are able to maintain the code at a much higher level.

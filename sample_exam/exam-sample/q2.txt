@@ -1,0 +1,13 @@
+Q. Break the following elicited requirements into a list of atomic dot points. Remove or consolidate any unnecessary or distracting information.
+
+How could we clean this up into well described requirements? "I want a burger with lots of pickles and mayo but I need to make sure that the mayo doesn't make the burger bun really wet. 
+Oh, and it needs to be warm, like, made less than 5 minutes ago warm but not so hot that I burn myself.
+I'm also not a big fan of plastic containers so if it could be in a paper bag that would be good. Actually, make that a brown paper bag, I like the colour of that"
+
+I want a burger with lots of pickles.
+I want a buger with some mayo.
+The burger must not be wet.
+The burger needs to be warm.
+The burger must be made less than 5 minutes ago.
+The burger cannot be so hot that you burn yourself.
+The burger must come in a brown paper bag. 

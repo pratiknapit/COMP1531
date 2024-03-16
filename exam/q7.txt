@@ -1,0 +1,8 @@
+Look before you leap.
+
+For example, 
+ if FileExists:
+    then file.open()
+
+instead of,
+    file.open()

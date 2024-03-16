@@ -1,0 +1,11 @@
+Q. Describe the difference between Continuous Integration and Continuous Delivery. For each, provide a clear and specific example of their usage.
+
+Continuous integration is the practice of automating the integration of code changes from multiple contributors into a single software project.
+It involves the automation of building, testing, reporting and finally merging in code. For example, in a group assignment, if we are using gitlab for our
+version control, if a group member pushes their code up, we want to be able to merge and integrate that code by first using coverage and pylint checkers, and 
+integrating that code as often as possible, reducing the chances of conflict errors. With continuous integration we are ensuring that the build will always work and 
+will pass pylint and pytest checks with full code coverage.
+
+Continous delivery is an automated extension of code integration which essentially automatically deploys all code changes to a testing or product environemnt after the building 
+stage (from Atlassian). Therefore, we are able to release versions of our software in small batches in an automated and continuous manner. For example, after a repo passes all necessary guidelines and 
+all automated tests, we can automatically release that software. Then we can simply have a deploy button that will deploy the application if all tests are passed. 

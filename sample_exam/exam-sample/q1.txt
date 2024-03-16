@@ -1,0 +1,5 @@
+Q. Describe and justify 3 attributes of good requirements.
+
+1. Resuability is an important attribute of good requirements because we need to be able to use code many times instead of repeating code.
+2. Maintanability is the ease in which an existing code can be changed. It is important because the easier we can make changes, the better.
+3. Robustness is another good requirement in designing software, as a system needs to work given invalid inputs and different conditions. 

@@ -1,0 +1,5 @@
+Q. Write a user story to capture the follow raw requirement: "I really hate how long it takes the gates at train stations to open. I tap on but it just takes forever, 
+and then I'm not sure whether it's working or not. I tap my opal card, and then there is always a delay. I wish it didn't take so long so that I didn't question every single day whether my 
+opal card is working or not. If it happened quicker I'd also feel like I wasn't just another university student about to get trampled by some giant man behind me"
+
+As a user, I want to tap on quickly so I don't have to question whether my card is working or not.

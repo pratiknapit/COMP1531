@@ -1,0 +1,1 @@
+As a UNSW student, I want the myUNSW site to always working so that I am able to check my timetable whenever I need to.

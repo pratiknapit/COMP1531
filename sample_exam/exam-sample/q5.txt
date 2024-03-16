@@ -1,0 +1,2 @@
+The statement would be created in the requirements analysis part, as it is a user story.
+
